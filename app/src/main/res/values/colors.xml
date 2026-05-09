@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="biru_tua">#1A3A5F</color>
+    <color name="biru_muda">#4A90E2</color>
+    <color name="biru_sangat_muda">#EBF3FB</color>
+    <color name="putih">#FFFFFFFF</color>
+    <color name="abu_abu">#F5F5F5</color>
+    <color name="abu_gelap">#666666</color>
+    <color name="hitam_lembut">#333333</color>
+    <color name="merah_error">#D32F2F</color>
+    <color name="merah">#D32F2F</color>
+</resources>

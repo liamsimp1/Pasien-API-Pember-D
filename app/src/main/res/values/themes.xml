@@ -1,0 +1,39 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.PasienApiApp" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/biru_tua</item>
+        <item name="colorPrimaryVariant">@color/biru_muda</item>
+        <item name="colorOnPrimary">@color/putih</item>
+        <item name="colorSecondary">@color/biru_muda</item>
+        <item name="colorSecondaryVariant">@color/biru_tua</item>
+        <item name="colorOnSecondary">@color/putih</item>
+        <item name="android:statusBarColor">@color/biru_tua</item>
+        <item name="android:windowBackground">@color/abu_abu</item>
+    </style>
+
+    <style name="ButtonLoginStroke" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/biru_tua</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textColor">@color/biru_tua</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="rippleColor">@color/biru_sangat_muda</item>
+    </style>
+
+    <style name="ButtonLogoutStroke" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/merah</item>
+        <item name="strokeWidth">2dp</item>
+        <item name="android:textColor">@color/merah_error</item>
+        <item name="android:textSize">14sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="rippleColor">#FFEBEE</item>
+    </style>
+
+    <style name="InputField" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/biru_tua</item>
+        <item name="hintTextColor">@color/biru_tua</item>
+        <item name="boxStrokeWidth">1.5dp</item>
+        <item name="boxStrokeWidthFocused">2dp</item>
+    </style>
+
+</resources>
